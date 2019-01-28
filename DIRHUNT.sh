@@ -8,6 +8,7 @@ echo  "_____________________________________________________________"|lolcat
 echo  "[TYPE      : TOOLS HUNTER DIR WEBSITE] " |lolcat
 echo  "[AUTHOR    : TUAN B4DUT] " |lolcat
 echo  "[ASSOCIATE : INDONESIAN TERMUX ASSOCIATION] " |lolcat
+echo  "[Website   : https://cyberline.ml] " | lolcat
 echo  "[NOTES     : BE A SMART PEOPLE] " | lolcat
 echo  "[THANKS TO : GOD]" | lolcat
 echo  "_____________________________________________________________" | lolcat
