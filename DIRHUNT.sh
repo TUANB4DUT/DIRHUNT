@@ -14,6 +14,7 @@ echo  "[THANKS TO : GOD]" | lolcat
 echo  "_____________________________________________________________" | lolcat
 
 sleep 1
+pip2 install dirhunt
 echo  "${y} CTRL + C FOR QUIT" | lolcat 
 echo  "${y} MASUKAN WEB TARGET [Use HTTPS/HTTP]${endc}:" | lolcat
 read web
